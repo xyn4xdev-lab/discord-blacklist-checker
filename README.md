@@ -1,9 +1,3 @@
-Excellent choice — **`discord-blacklist-checker`** is clean and tells users exactly what your tool does.
-
----
-
-## ✅ `README.md` for `discord-blacklist-checker`
-
 ````markdown
 # 🛡️ Discord Blacklist Checker
 
