@@ -56,7 +56,7 @@ npm install discord.js-selfbot-v13
 Run the bot with:
 
 ```bash
-node blacklist-checker.js
+node index.js
 ```
 
 ### 📜 Commands
