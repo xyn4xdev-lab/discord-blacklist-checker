@@ -24,7 +24,7 @@ A Discord selfbot built with `discord.js-selfbot-v13` that checks if a user appe
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/discord-blacklist-checker.git
+git clone https://github.com/xyn4xdev-lab/discord-blacklist-checker.git
 cd discord-blacklist-checker
 npm install discord.js-selfbot-v13
 ````
